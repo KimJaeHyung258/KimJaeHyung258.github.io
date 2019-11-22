@@ -44,13 +44,17 @@
 			<span>교통사고위험예측시스템</span>
 		</div>
 	</div>
-	<svg class="map">
-		<pattern elementId="map_A2_Rectangle_5" id="map_A2_Rectangle_5_pattern" x="0" y="0" width="100%" height="100%">
-			<image x="0" y="0" width="100%" height="100%" href="map_A2_Rectangle_5_pattern.png" xlink:href="map_A2_Rectangle_5_pattern.png"></image>
-		</pattern>
-		<rect fill="url(#map_A2_Rectangle_5_pattern)" id="map" rx="0" ry="0" x="0" y="0" width="1002.5" height="849">
-		</rect>
-	</svg>
+	<div id="map_A2_Rectangle_5_pattern" style="width:1002.5px;height:849px;"></div>
+	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=b968c29a1f4f5816b704932318309082"></script>
+	<script>
+		var container = document.getElementById('map');
+		var options = {
+			center: new kakao.maps.LatLng(33.450701, 126.570667),
+			level: 3
+		};
+
+		var map = new kakao.maps.Map(container, options);
+	</script>
 	<div id="navigator">
 		<svg class="____394">
 			<rect fill="rgba(66,222,225,1)" id="____394" rx="0" ry="0" x="0" y="0" width="47" height="852">
