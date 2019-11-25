@@ -1,0 +1,374 @@
+.mediaViewInfo {
+	--web-view-name: 웹 1280 – 1;
+	--web-view-id: __1280___1;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: __1280___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#__1280___1 {
+	position: absolute;
+	box-sizing: border-box;
+	transform: translateX(-50%);
+	left: 50%;
+	background: #E5E5E5;
+	width: 1280px;
+	height: 3931px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 웹 1280 – 1;
+	--web-view-id: __1280___1;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+.base {
+	filter: drop-shadow(0px 6px 34px rgba(0, 0, 0, 0.471));
+	position: absolute;
+	overflow: visible;
+	width: 1382px;
+	height: 900px;
+	left: 0px;
+	top: 1990px;
+}
+#PROJECT {
+	position: absolute;
+	left: 418px;
+	top: 1039.071px;
+	overflow: visible;
+	width: 445px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(63,197,240,1);
+	letter-spacing: 2.71px;
+}
+#___________ {
+	position: absolute;
+	left: 503px;
+	top: 1162.071px;
+	overflow: visible;
+	width: 275px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: NanumSquareOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(45,48,48,1);
+	letter-spacing: 2.71px;
+}
+.__1 {
+	overflow: visible;
+	position: absolute;
+	width: 104px;
+	height: 1px;
+	left: 588px;
+	top: 1251.496px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#______________________________ {
+	position: absolute;
+	left: 177px;
+	top: 1309.071px;
+	overflow: visible;
+	width: 927px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: NanumSquare;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(45,48,48,1);
+	letter-spacing: 2.71px;
+}
+.background {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 797px;
+	left: 0px;
+	top: 1983px;
+}
+#title {
+	position: absolute;
+	width: 444px;
+	height: 100px;
+	left: 398.5px;
+	top: 1833px;
+	overflow: visible;
+}
+#PROJECT_A0_Text_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 445px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(63,197,240,1);
+	letter-spacing: 2.71px;
+}
+#____________A0_Text_5 {
+	position: absolute;
+	left: 85px;
+	top: 73px;
+	overflow: visible;
+	width: 275px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: NanumSquareOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(45,48,48,1);
+	letter-spacing: 2.71px;
+}
+.map {
+	position: absolute;
+	overflow: visible;
+	width: 834px;
+	height: 705px;
+	left: 308px;
+	top: 2036.464px;
+}
+#info {
+	position: absolute;
+	width: 1280px;
+	height: 257px;
+	left: 0px;
+	top: 3669px;
+	overflow: visible;
+}
+.base_A0_Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 50px;
+	left: 0px;
+	top: 207px;
+}
+.Base {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 207px;
+	left: 0px;
+	top: 0px;
+}
+.sns {
+	overflow: visible;
+	position: absolute;
+	width: 17.796px;
+	height: 34.078px;
+	left: 810.662px;
+	top: 86.212px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.sns_A0_Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 34.078px;
+	height: 27.641px;
+	left: 637.368px;
+	top: 89.212px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.sns_A0_Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 34.078px;
+	height: 34.078px;
+	left: 451.542px;
+	top: 86.212px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.up {
+	overflow: visible;
+	position: absolute;
+	width: 0px;
+	height: 0px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,1208.4717,54.585) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.git {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: 1063px;
+	top: 133.585px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Background {
+	opacity: 0.78;
+}
+.Background {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 784.363px;
+	left: 0px;
+	top: 2870px;
+}
+#GIt_link {
+	position: absolute;
+	width: 368px;
+	height: 33px;
+	left: 456px;
+	top: 1503px;
+	overflow: visible;
+}
+#GITHUB {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(45,48,48,1);
+	letter-spacing: 2.71px;
+}
+#devloper {
+	position: absolute;
+	left: 216px;
+	top: 4px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(146,150,150,1);
+	letter-spacing: 2.71px;
+}
+.____395 {
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	height: 706px;
+	left: 138px;
+	top: 2036px;
+}
+.____396 {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 165px;
+	left: 0px;
+	top: 0px;
+}
+#Background_A0_Rectangle_10 {
+	opacity: 0.78;
+}
+.Background_A0_Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 634.363px;
+	left: 0px;
+	top: 165px;
+}
+.title1 {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 165px;
+	left: 0px;
+	top: 0px;
+}
+#Menu {
+	position: absolute;
+	width: 55px;
+	height: 39px;
+	left: 1018px;
+	top: 66px;
+	overflow: visible;
+}
+.Menu_A0_BooleanGroup_1 {
+	overflow: visible;
+	position: absolute;
+	width: 55px;
+	height: 39px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.___1 {
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	height: 225px;
+	left: 138px;
+	top: -60px;
+}
+#ABOUT {
+	position: absolute;
+	left: 762px;
+	top: 72px;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(2,2,2,1);
+	letter-spacing: 2.71px;
+}
+#PROJECT_A0_Text_9 {
+	position: absolute;
+	left: 541px;
+	top: 72px;
+	overflow: visible;
+	width: 159px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(2,2,2,1);
+	letter-spacing: 2.71px;
+}
+#HOME {
+	position: absolute;
+	left: 364px;
+	top: 72px;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(2,2,2,1);
+	letter-spacing: 2.71px;
+}
