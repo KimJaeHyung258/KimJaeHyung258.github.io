@@ -37,6 +37,20 @@
 	left: 0px;
 	top: 1990px;
 }
+#Analysis_MAp {
+	position: absolute;
+	left: 22px;
+	top: 1983px;
+	overflow: hidden;
+	width: 286px;
+	height: 42px;
+	text-align: center;
+	font-family: OCR A Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
 #PROJECT {
 	position: absolute;
 	left: 418px;
@@ -54,7 +68,7 @@
 }
 #___________ {
 	position: absolute;
-	left: 503px;
+	left: 445px;
 	top: 1162.071px;
 	overflow: visible;
 	width: 275px;
@@ -126,7 +140,7 @@
 }
 #____________A0_Text_5 {
 	position: absolute;
-	left: 85px;
+	left: 30px;
 	top: 73px;
 	overflow: visible;
 	width: 275px;
@@ -142,9 +156,9 @@
 .map {
 	position: absolute;
 	overflow: visible;
-	width: 834px;
+	width: 1500px;
 	height: 705px;
-	left: 308px;
+	left: 0px;
 	top: 2036.464px;
 }
 #info {
@@ -227,6 +241,7 @@
 	height: 784.363px;
 	left: 0px;
 	top: 2870px;
+	z-index: -1;
 }
 #GIt_link {
 	position: absolute;
@@ -265,14 +280,6 @@
 	font-size: 25px;
 	color: rgba(146,150,150,1);
 	letter-spacing: 2.71px;
-}
-.____395 {
-	position: absolute;
-	overflow: visible;
-	width: 171px;
-	height: 706px;
-	left: 138px;
-	top: 2036px;
 }
 .____396 {
 	position: absolute;
@@ -371,4 +378,76 @@
 	font-size: 25px;
 	color: rgba(2,2,2,1);
 	letter-spacing: 2.71px;
+}
+#https___github_com_KimJaeHyung {
+	position: absolute;
+	left: 51px;
+	top: 1578px;
+	overflow: hidden;
+	width: 987px;
+	height: 194px;
+	text-align: center;
+	font-family: OCR A Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Infographics {
+	position: absolute;
+	left: 22px;
+	top: 2914px;
+	overflow: hidden;
+	width: 265px;
+	height: 41px;
+	text-align: center;
+	font-family: OCR A Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+.KakaoTalk_20191126_234801109 {
+	position: absolute;
+	overflow: visible;
+	width: 405px;
+	height: 420px;
+	left: 910px;
+	top: 3046px;
+}
+.KakaoTalk_20191126_234752974 {
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	height: 420px;
+	left: 1325px;
+	top: 3046px;
+}
+.KakaoTalk_20191126_234755602 {
+	position: absolute;
+	overflow: visible;
+	width: 397px;
+	height: 420px;
+	left: 1728px;
+	top: 3046px;
+}
+
+#alignContainer {
+	background-color: rgba(230,238,248,1);
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#innerContainer {
+	padding:5px;
+	text-align: center;
+}
+
+#innerContainer > img {
+	width: 380px;
+	height: 330px;
+	margin: 10px;
+	z-index: 3;
 }
